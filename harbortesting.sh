@@ -1,5 +1,9 @@
 cd /home/iplon/repos_2
 
+https://github.com/Tamiliplon/ansibletesting.git
+
+mkdir -p /etc/docker/certs.d/ivpn.iplon.co.in:8443
+
 
 
 docker pull nodered/node-red
